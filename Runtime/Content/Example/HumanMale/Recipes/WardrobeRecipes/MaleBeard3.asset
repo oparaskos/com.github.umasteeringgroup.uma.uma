@@ -14,10 +14,10 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: Manly Beard
   compatibleRaces:
-  - HumanMaleHD
+  - HumanMaleDCS
   - HumanMale
   wardrobeRecipeThumbs:
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 21300000, guid: 80aac4e4cdab6764ea5ff0b29c6b0a4b, type: 3}
   - race: HumanMale

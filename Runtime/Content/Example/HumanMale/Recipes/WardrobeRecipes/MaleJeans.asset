@@ -14,10 +14,10 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: Jeans
   compatibleRaces:
-  - HumanMaleHD
+  - HumanMaleDCS
   - HumanMale
   wardrobeRecipeThumbs:
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 21300000, guid: 6dfeb8ef7d6d5d8489aaf06f2240e07a, type: 3}
   - race: HumanMale

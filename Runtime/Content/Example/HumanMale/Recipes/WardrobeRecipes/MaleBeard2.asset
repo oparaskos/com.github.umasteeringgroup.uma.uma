@@ -14,10 +14,10 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: Bums Beard
   compatibleRaces:
-  - HumanMaleHD
+  - HumanMaleDCS
   - HumanMale
   wardrobeRecipeThumbs:
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 21300000, guid: 3919e5d423ea5eb41a1725838d71d53b, type: 3}
   - race: HumanMale

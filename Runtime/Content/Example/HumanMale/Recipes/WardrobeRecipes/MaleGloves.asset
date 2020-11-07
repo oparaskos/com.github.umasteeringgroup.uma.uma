@@ -15,12 +15,12 @@ MonoBehaviour:
   DisplayValue: Gloves of Hammer
   compatibleRaces:
   - HumanMale
-  - HumanMaleHD
+  - HumanMaleDCS
   wardrobeRecipeThumbs:
   - race: HumanMale
     filename: 
     thumb: {fileID: 21300000, guid: acd2947ccc12f0b41aaef2fc727dece4, type: 3}
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 0}
   wardrobeSlot: Hands

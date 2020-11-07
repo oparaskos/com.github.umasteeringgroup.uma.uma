@@ -14,10 +14,10 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: Devilish Goatee
   compatibleRaces:
-  - HumanMaleHD
+  - HumanMaleDCS
   - HumanMale
   wardrobeRecipeThumbs:
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 21300000, guid: 202cec08c39591848ba805b12ad3016e, type: 3}
   - race: HumanMale

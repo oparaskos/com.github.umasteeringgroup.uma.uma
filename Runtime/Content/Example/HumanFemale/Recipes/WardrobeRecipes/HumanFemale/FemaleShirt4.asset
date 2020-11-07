@@ -14,9 +14,13 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: Shirt 4
   compatibleRaces:
-  - HumanFemaleHD
+  - HumanFemaleDCS
+  - HumanFemale
   wardrobeRecipeThumbs:
-  - race: HumanFemaleHD
+  - race: HumanFemaleDCS
+    filename: 
+    thumb: {fileID: 21300000, guid: a2d8033d2ee207e4f8d529dfa3835eed, type: 3}
+  - race: HumanFemale
     filename: 
     thumb: {fileID: 21300000, guid: a2d8033d2ee207e4f8d529dfa3835eed, type: 3}
   wardrobeSlot: Chest

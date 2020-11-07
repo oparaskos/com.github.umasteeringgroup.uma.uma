@@ -15,12 +15,12 @@ MonoBehaviour:
   DisplayValue: Mystic Robe Shoes
   compatibleRaces:
   - HumanMale
-  - HumanMaleHD
+  - HumanMaleDCS
   wardrobeRecipeThumbs:
   - race: HumanMale
     filename: 
     thumb: {fileID: 21300000, guid: 5ba8be9f4723c964e9937c9ea7d657ea, type: 3}
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 0}
   wardrobeSlot: Feet

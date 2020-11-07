@@ -14,10 +14,10 @@ MonoBehaviour:
   recipeType: Wardrobe
   DisplayValue: Shirt 1
   compatibleRaces:
-  - HumanMaleHD
+  - HumanMaleDCS
   - HumanMale
   wardrobeRecipeThumbs:
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 21300000, guid: 1642edf09249dce43846da29cc2f3b55, type: 3}
   - race: HumanMale

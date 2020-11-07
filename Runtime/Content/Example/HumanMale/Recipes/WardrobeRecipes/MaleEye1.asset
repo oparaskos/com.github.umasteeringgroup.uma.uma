@@ -15,12 +15,12 @@ MonoBehaviour:
   DisplayValue: Alligator Eyes
   compatibleRaces:
   - HumanMale
-  - HumanMaleHD
+  - HumanMaleDCS
   wardrobeRecipeThumbs:
   - race: HumanMale
     filename: 
     thumb: {fileID: 21300000, guid: c13828597679d0b48bdf3f20d5462564, type: 3}
-  - race: HumanMaleHD
+  - race: HumanMaleDCS
     filename: 
     thumb: {fileID: 0}
   wardrobeSlot: Eyes
